@@ -6,7 +6,7 @@ University of Texas at San Antonio - Engaging Computing Group
 ## About
 IntoTheRabbitHole was created by Pragathi Durga Rajarajan as part of a Developing AI Tools for K-12 project at the University of Texas at San Antonio, under the guidance of Dr. Fred Martin. A full paper was published at the ACM Innovation and Technology in Computer Science Education (ITiCSE 2025).
 
-IntoTheRabbitHole aims to teach middle school students (grades 6-8) about search algorithms via with DFS training puzzles, BFS training puzzles, and a timed challenge level. Each puzzle involves traversing a graph to help a rabbit find its carrot.
+IntoTheRabbitHole aims to teach middle school students (grades 6-8) about search algorithms via DFS training puzzles, BFS training puzzles, and a timed challenge level. Each puzzle involves traversing a graph to help a rabbit find its carrot.
 
 ## IntoTheRabbitHole Resources 
 IntoTheRabbitHole live link (works best on computers (use 80% zoom on smaller screens)): https://pdr24.github.io/IntoTheRabbitHole/
