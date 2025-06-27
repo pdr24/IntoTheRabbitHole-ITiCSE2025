@@ -13,4 +13,4 @@ IntoTheRabbitHole live link (works best on computers (use 80% zoom on smaller sc
 
 IntoTheRabbitHole github repository: https://github.com/pdr24/IntoTheRabbitHole
 
-IntoTheRabbitHole ACM ITiCSE 2025 Presentation Slides: https://github.com/pdr24/IntoTheRabbitHole-ITiCSE2025/blob/main/IntoTheRabbitHole_ITiCSE%20copy.pptx
+IntoTheRabbitHole ACM ITiCSE 2025 Presentation Slides: https://github.com/pdr24/IntoTheRabbitHole-ITiCSE2025/blob/main/IntoTheRabbitHole_ITiCSE.pptx
